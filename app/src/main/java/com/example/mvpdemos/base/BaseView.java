@@ -1,4 +1,4 @@
-package com.example.mvpdemos;
+package com.example.mvpdemos.base;
 
 /**
  * Created by zhuangsj on 16-9-26.

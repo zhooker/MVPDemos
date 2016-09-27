@@ -2,8 +2,6 @@ package com.example.mvpdemos.model.http;
 
 import com.example.mvpdemos.model.bean.GankItemBean;
 
-import java.io.File;
-import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 

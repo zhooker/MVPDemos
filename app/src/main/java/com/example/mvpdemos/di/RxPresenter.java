@@ -1,7 +1,7 @@
 package com.example.mvpdemos.di;
 
-import com.example.mvpdemos.BasePresenter;
-import com.example.mvpdemos.BaseView;
+import com.example.mvpdemos.base.BasePresenter;
+import com.example.mvpdemos.base.BaseView;
 
 import rx.Subscription;
 import rx.subscriptions.CompositeSubscription;

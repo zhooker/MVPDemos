@@ -15,19 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void onNormalMVP(View v) {
-
-    }
-
-    public void onRxJavaMVP(View v) {
-
-    }
-
     public void onDaggerMVP(View v) {
         startActivity(new Intent(MainActivity.this, DaggerActivity.class));
-    }
-
-    public void onBindingMVP(View v) {
-
     }
 }

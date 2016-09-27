@@ -1,13 +1,10 @@
 package com.example.mvpdemos.dagger;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.view.MenuItem;
-import android.view.View;
 import android.widget.TextView;
 
 import com.example.mvpdemos.App;
-import com.example.mvpdemos.BaseActivity;
+import com.example.mvpdemos.base.BaseActivity;
 import com.example.mvpdemos.R;
 import com.example.mvpdemos.di.component.ActivityComponent;
 import com.example.mvpdemos.di.component.DaggerActivityComponent;

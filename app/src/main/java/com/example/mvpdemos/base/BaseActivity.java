@@ -1,4 +1,4 @@
-package com.example.mvpdemos;
+package com.example.mvpdemos.base;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
